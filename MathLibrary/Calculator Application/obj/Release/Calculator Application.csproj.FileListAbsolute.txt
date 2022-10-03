@@ -1,0 +1,45 @@
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\PrecedenceTableOfOperator.json
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\ButtonInfo.json
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\Calculator Application.exe.config
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\Calculator Application.exe.manifest
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\Calculator Application.application
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\Calculator Application.exe
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\Calculator Application.pdb
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\C1.Win.4.5.2.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\C1.Win.C1Command.4.5.2.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\MathLibrary.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\Newtonsoft.Json.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\System.Buffers.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\System.Memory.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\System.Numerics.Vectors.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\System.Text.Json.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\System.ValueTuple.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\MathLibrary.pdb
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\MathLibrary.dll.config
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\C1.Win.4.5.2.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\C1.Win.C1Command.4.5.2.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\Newtonsoft.Json.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\System.Buffers.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\System.Memory.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\System.Numerics.Vectors.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\System.Text.Json.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Release\System.ValueTuple.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\obj\Release\Calculator Application.csproj.AssemblyReference.cache
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\obj\Release\Calculator Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\obj\Release\Calculator_Application.Calculator.resources
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\obj\Release\Calculator_Application.Properties.Resources.resources
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\obj\Release\Calculator Application.csproj.GenerateResource.cache
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\obj\Release\Calculator Application.csproj.CoreCompileInputs.cache
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\obj\Release\Calculator Application.exe.manifest
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\obj\Release\Calculator Application.application
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\obj\Release\Calculator Application.csproj.CopyComplete
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\obj\Release\Calculator Application.exe
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\obj\Release\Calculator Application.pdb

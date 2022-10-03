@@ -1,0 +1,168 @@
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\PrecedenceTableOfOperator.json
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\ButtonInfo.json
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\Calculator Application.exe.config
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\Calculator Application.exe
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\Calculator Application.pdb
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\C1.Win.4.5.2.dll
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\C1.Win.C1Command.4.5.2.dll
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\MathLibrary.dll
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\System.Buffers.dll
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\System.Memory.dll
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\System.Text.Json.dll
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\System.ValueTuple.dll
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\MathLibrary.pdb
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\MathLibrary.dll.config
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\C1.Win.4.5.2.xml
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\C1.Win.C1Command.4.5.2.xml
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\System.Buffers.xml
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\System.Memory.xml
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\System.Text.Json.xml
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\bin\Debug\System.ValueTuple.xml
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\obj\Debug\Calculator Application.csproj.AssemblyReference.cache
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\obj\Debug\Calculator Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\obj\Debug\Calculator_Application.Calculator.resources
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\obj\Debug\Calculator_Application.Properties.Resources.resources
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\obj\Debug\Calculator Application.csproj.GenerateResource.cache
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\obj\Debug\Calculator Application.csproj.CoreCompileInputs.cache
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\obj\Debug\Calculator Application.csproj.CopyComplete
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\obj\Debug\Calculator Application.exe
+C:\Users\GPCTAdmin\source\repos\P\Calculator Application\obj\Debug\Calculator Application.pdb
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\PrecedenceTableOfOperator.json
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\ButtonInfo.json
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\Calculator Application.exe.config
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\Calculator Application.exe
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\Calculator Application.pdb
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\C1.Win.4.5.2.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\C1.Win.C1Command.4.5.2.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\MathLibrary.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\System.Buffers.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\System.Memory.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\System.Text.Json.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\System.ValueTuple.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\MathLibrary.pdb
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\MathLibrary.dll.config
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\C1.Win.4.5.2.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\C1.Win.C1Command.4.5.2.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\System.Buffers.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\System.Memory.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\System.Text.Json.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\bin\Debug\System.ValueTuple.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\obj\Debug\Calculator Application.csproj.AssemblyReference.cache
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\obj\Debug\Calculator Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\obj\Debug\Calculator_Application.Calculator.resources
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\obj\Debug\Calculator_Application.Properties.Resources.resources
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\obj\Debug\Calculator Application.csproj.GenerateResource.cache
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\obj\Debug\Calculator Application.csproj.CoreCompileInputs.cache
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\obj\Debug\Calculator Application.csproj.CopyComplete
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\obj\Debug\Calculator Application.exe
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\Kat\Calculator Application\obj\Debug\Calculator Application.pdb
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\PrecedenceTableOfOperator.json
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\ButtonInfo.json
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\Calculator Application.exe.config
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\Calculator Application.exe
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\Calculator Application.pdb
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\C1.Win.4.5.2.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\C1.Win.C1Command.4.5.2.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\MathLibrary.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\System.Buffers.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\System.Memory.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\System.Text.Json.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\System.ValueTuple.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\MathLibrary.pdb
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\MathLibrary.dll.config
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\C1.Win.4.5.2.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\C1.Win.C1Command.4.5.2.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\System.Buffers.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\System.Memory.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\System.Text.Json.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\System.ValueTuple.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\obj\Debug\Calculator Application.csproj.AssemblyReference.cache
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\obj\Debug\Calculator Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\obj\Debug\Calculator_Application.Calculator.resources
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\obj\Debug\Calculator_Application.Properties.Resources.resources
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\obj\Debug\Calculator Application.csproj.GenerateResource.cache
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\obj\Debug\Calculator Application.csproj.CoreCompileInputs.cache
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\obj\Debug\Calculator Application.csproj.CopyComplete
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\obj\Debug\Calculator Application.exe
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\obj\Debug\Calculator Application.pdb
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\Calculator Application.exe.manifest
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\bin\Debug\Calculator Application.application
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\obj\Debug\Calculator Application.exe.manifest
+C:\Users\GPCTAdmin\source\repos\katyayny-raghuvanshi\MathLibrary\Calculator Application\obj\Debug\Calculator Application.application
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\PrecedenceTableOfOperator.json
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\ButtonInfo.json
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\Calculator Application.exe.config
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\Calculator Application.exe.manifest
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\Calculator Application.application
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\Calculator Application.exe
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\Calculator Application.pdb
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\C1.Win.4.5.2.dll
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\C1.Win.C1Command.4.5.2.dll
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\MathLibrary.dll
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\System.Buffers.dll
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\System.Memory.dll
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\System.Text.Json.dll
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\System.ValueTuple.dll
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\MathLibrary.pdb
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\MathLibrary.dll.config
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\C1.Win.4.5.2.xml
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\C1.Win.C1Command.4.5.2.xml
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\System.Buffers.xml
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\System.Memory.xml
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\System.Text.Json.xml
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\bin\Debug\System.ValueTuple.xml
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\obj\Debug\Calculator Application.csproj.AssemblyReference.cache
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\obj\Debug\Calculator Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\obj\Debug\Calculator_Application.Calculator.resources
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\obj\Debug\Calculator_Application.Properties.Resources.resources
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\obj\Debug\Calculator Application.csproj.GenerateResource.cache
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\obj\Debug\Calculator Application.csproj.CoreCompileInputs.cache
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\obj\Debug\Calculator Application.exe.manifest
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\obj\Debug\Calculator Application.application
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\obj\Debug\Calculator Application.csproj.CopyComplete
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\obj\Debug\Calculator Application.exe
+C:\Users\GPCTAdmin\Source\Repos\Calculator\MathLibrary\Calculator Application\obj\Debug\Calculator Application.pdb

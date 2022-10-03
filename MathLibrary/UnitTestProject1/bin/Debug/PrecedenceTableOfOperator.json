@@ -1,0 +1,31 @@
+﻿[
+  {
+    "Class": "MathLibrary.ReciprocalOperation",
+    "Precedence": 1,
+    "Symbol": "inv"
+  },
+  {
+    "Class": "MathLibrary.SquareRootOperation",
+    "Precedence": 1,
+    "Symbol": "root"
+  },
+  {
+    "Class": "MathLibrary.DivideOperation",
+    "Precedence": 2,
+    "Symbol": "/"
+  },
+  {
+    "Class": "MathLibrary.MultiplyOperation",
+    "Precedence": 3,
+    "Symbol": "*"
+  },
+  {
+    "Class": "MathLibrary.AddOperation",
+    "Symbol": "+"
+  },
+  {
+    "Class": "MathLibrary.SubtractOperation",
+    "Precedence": 4,
+    "Symbol": "-"
+  }
+]

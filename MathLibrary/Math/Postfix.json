@@ -1,0 +1,34 @@
+[
+  {
+    "add": {
+      "symbol": "+",
+      "precedence": 4,
+      "operatorType": "binary"
+    },
+    "subtract": {
+      "symbol": "-",
+      "precedence": 4,
+      "operatorType": "binary"
+    },
+    "divide": {
+      "symbol": "/",
+      "precedence": 2,
+      "operatorType": "binary"
+    },
+    "multiply": {
+      "symbol": "*",
+      "precedence": 3,
+      "operatorType": "binary"
+    },
+    "reciprocal": {
+      "symbol": "reci",
+      "precedence": 1,
+      "operatorType": "unary"
+    },
+    "squareRoot": {
+      "symbol": "sqrt",
+      "precedence": 1,
+      "operatorType": "unary"
+    }
+  }
+]

@@ -1,0 +1,92 @@
+﻿[
+  {
+    "Class": "MathLibrary.SineOperation",
+    "Precedence": 1,
+    "Symbol": "sin"
+  },
+  {
+    "Class": "MathLibrary.CosOperation",
+    "Precedence": 1,
+    "Symbol": "cos"
+  },
+  {
+    "Class": "MathLibrary.TanOperation",
+    "Precedence": 1,
+    "Symbol": "tan"
+  },
+  {
+    "Class": "MathLibrary.CotOperation",
+    "Precedence": 1,
+    "Symbol": "cot"
+  },
+  {
+    "Class": "MathLibrary.SecOperation",
+    "Precedence": 1,
+    "Symbol": "sec"
+  },
+  {
+    "Class": "MathLibrary.CosecOperation",
+    "Precedence": 1,
+    "Symbol": "cosec"
+  },
+  {
+    "Class": "MathLibrary.ReciprocalOperation",
+    "Precedence": 1,
+    "Symbol": "inv"
+  },
+  {
+    "Class": "MathLibrary.PercentOperation",
+    "Precedence": 1,
+    "Symbol": "%"
+  },
+  {
+    "Class": "MathLibrary.NegateOperation",
+    "Precedence": 1,
+    "Symbol": "neg"
+  },
+  {
+    "Class": "MathLibrary.SquareRootOperation",
+    "Precedence": 1,
+    "Symbol": "root"
+  },
+  {
+    "Class": "MathLibrary.SquareOperation",
+    "Precedence": 1,
+    "Symbol": "sq"
+  },
+  {
+    "Class": "MathLibrary.LogOperation",
+    "Precedence": 2,
+    "Symbol": "ln"
+  },
+  {
+    "Class": "MathLibrary.LogBase10",
+    "Precedence": 2,
+    "Symbol": "log"
+  },
+  {
+    "Class": "MathLibrary.DivideOperation",
+    "Precedence": 2,
+    "Symbol": "/"
+  },
+  {
+    "Class": "MathLibrary.MultiplyOperation",
+    "Precedence": 3,
+    "Symbol": "*"
+  },
+  {
+    "Class": "MathLibrary.ExponentOperation",
+    "Precedence": 3,
+    "Symbol": "^"
+  },
+  {
+    "Class": "MathLibrary.AddOperation",
+    "Precedence": 4,
+    "Symbol": "+"
+  },
+  {
+    "Class": "MathLibrary.SubtractOperation",
+    "Precedence": 4,
+    "Symbol": "-"
+  }
+]

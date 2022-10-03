@@ -1,0 +1,261 @@
+﻿[
+  {
+    "X": 0,
+    "Y": 0,
+    "Panel": "Memory",
+    "ButtonName": "MC",
+    "Operator": null
+  },
+  {
+    "X": 1,
+    "Y": 0,
+    "Panel": "Memory",
+    "ButtonName": "MR",
+    "Operator": null
+  },
+  {
+    "X": 2,
+    "Y": 0,
+    "Panel": "Memory",
+    "ButtonName": "M+",
+    "Operator": null
+  },
+  {
+    "X": 3,
+    "Y": 0,
+    "Panel": "Memory",
+    "ButtonName": "M-",
+    "Operator": null
+  },
+  {
+    "X": 4,
+    "Y": 0,
+    "Panel": "Memory",
+    "ButtonName": "MS",
+    "Operator": null
+  },
+  {
+    "X": 0,
+    "Y": 0,
+    "Panel": "Calculator",
+    "ButtonName": "CE",
+    "Operator": null
+  },
+  {
+    "X": 1,
+    "Y": 0,
+    "Panel": "Calculator",
+    "ButtonName": "C",
+    "Operator": null
+  },
+  {
+    "X": 3,
+    "Y": 0,
+    "Panel": "Calculator",
+    "ButtonName": "ln",
+    "Operator": "ln"
+  },
+  {
+    "X": 2,
+    "Y": 0,
+    "Panel": "Calculator",
+    "ButtonName": "log10",
+    "Operator": "log"
+  },
+  {
+    "X": 4,
+    "Y": 1,
+    "Panel": "Calculator",
+    "ButtonName": "+",
+    "Operator": "+"
+  },
+  {
+    "X": 5,
+    "Y": 1,
+    "Panel": "Calculator",
+    "ButtonName": "-",
+    "Operator": "-"
+  },
+  {
+    "X": 6,
+    "Y": 1,
+    "Panel": "Calculator",
+    "ButtonName": "*",
+    "Operator": "*"
+  },
+  {
+    "X": 7,
+    "Y": 1,
+    "Panel": "Calculator",
+    "ButtonName": "/",
+    "Operator": "/"
+  },
+  {
+    "X": 7,
+    "Y": 0,
+    "Panel": "Calculator",
+    "ButtonName": "^",
+    "Operator": "^"
+  },
+  {
+    "X": 3,
+    "Y": 2,
+    "Panel": "Calculator",
+    "ButtonName": "x^2",
+    "Operator": "sq"
+  },
+  {
+    "X": 3,
+    "Y": 1,
+    "Panel": "Calculator",
+    "ButtonName": "%",
+    "Operator": "%"
+  },
+  {
+    "X": 6,
+    "Y": 3,
+    "Panel": "Calculator",
+    "ButtonName": "+/-",
+    "Operator": "neg"
+  },
+  {
+    "X": 4,
+    "Y": 0,
+    "Panel": "Calculator",
+    "ButtonName": "sin",
+    "Operator": "sin"
+  },
+  {
+    "X": 5,
+    "Y": 0,
+    "Panel": "Calculator",
+    "ButtonName": "cos",
+    "Operator": "cos"
+  },
+  {
+    "X": 6,
+    "Y": 0,
+    "Panel": "Calculator",
+    "ButtonName": "tan",
+    "Operator": "tan"
+  },
+  {
+    "X": 3,
+    "Y": 3,
+    "Panel": "Calculator",
+    "ButtonName": "1/x",
+    "Operator": "inv"
+  },
+  {
+    "X": 0,
+    "Y": 1,
+    "Panel": "Calculator",
+    "ButtonName": "cosec",
+    "Operator": "cosec"
+  },
+  {
+    "X": 1,
+    "Y": 1,
+    "Panel": "Calculator",
+    "ButtonName": "sec",
+    "Operator": "sec"
+  },
+  {
+    "X": 2,
+    "Y": 1,
+    "Panel": "Calculator",
+    "ButtonName": "cot",
+    "Operator": "cot"
+  },
+  {
+    "X": 7,
+    "Y": 3,
+    "Panel": "Calculator",
+    "ButtonName": "=",
+    "Operator": null
+  },
+  {
+    "X": 0,
+    "Y": 2,
+    "Panel": "Calculator",
+    "ButtonName": "7",
+    "Operator": "7"
+  },
+  {
+    "X": 1,
+    "Y": 2,
+    "Panel": "Calculator",
+    "ButtonName": "8",
+    "Operator": "8"
+  },
+  {
+    "X": 2,
+    "Y": 2,
+    "Panel": "Calculator",
+    "ButtonName": "9",
+    "Operator": "9"
+  },
+  {
+    "X": 4,
+    "Y": 3,
+    "Panel": "Calculator",
+    "ButtonName": ".",
+    "Operator": "."
+  },
+  {
+    "X": 4,
+    "Y": 2,
+    "Panel": "Calculator",
+    "ButtonName": "4",
+    "Operator": "4"
+  },
+  {
+    "X": 5,
+    "Y": 2,
+    "Panel": "Calculator",
+    "ButtonName": "5",
+    "Operator": "5"
+  },
+  {
+    "X": 6,
+    "Y": 2,
+    "Panel": "Calculator",
+    "ButtonName": "6",
+    "Operator": "6"
+  },
+  {
+    "X": 5,
+    "Y": 3,
+    "Panel": "Calculator",
+    "ButtonName": "0",
+    "Operator": "0"
+  },
+  {
+    "X": 0,
+    "Y": 3,
+    "Panel": "Calculator",
+    "ButtonName": "1",
+    "Operator": "1"
+  },
+  {
+    "X": 1,
+    "Y": 3,
+    "Panel": "Calculator",
+    "ButtonName": "2",
+    "Operator": "2"
+  },
+  {
+    "X": 2,
+    "Y": 3,
+    "Panel": "Calculator",
+    "ButtonName": "3",
+    "Operator": "3"
+  },
+  {
+    "X": 7,
+    "Y": 2,
+    "Panel": "Calculator",
+    "ButtonName": "x^1/2",
+    "Operator": "root"
+  }
+]
